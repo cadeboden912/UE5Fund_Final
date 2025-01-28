@@ -16,7 +16,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GPULightmass",
+			"Name": "ActorPalette",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
 			"Enabled": true
 		}
 	]
